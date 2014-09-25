@@ -1,4 +1,4 @@
 pyb_fish_completion
 ===================
 
-## This is WIP
+# check the [pybuilder project](https://github.com/pybuilder/pybuilder-completions) for the pyb fish completions
